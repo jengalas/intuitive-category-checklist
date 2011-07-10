@@ -38,6 +38,10 @@ Please submit feedback to the plugin's home page in regards to features you woul
 1. Quick Edit View
 2. Full Edit View
 
+== Upgrade Notice ==
+
+This is the first version so nothing to upgrade.
+
 == License ==
 
 Good news, this plugin is free for everyone! Since it's released under the GPL, you can use it free of charge on your personal or commercial blog. If you have found this plugin to be useful plese give it a rating or you can thank me and leave a [small donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=39WPEFFWFDXTL "Donate with PayPal") for the time I've spent writing and supporting this plugin.
