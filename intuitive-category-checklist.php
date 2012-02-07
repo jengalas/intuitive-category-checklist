@@ -4,7 +4,7 @@
   Plugin URI: http://www.truimage.net
   Description: Intuitive Category Checklist makes selecting categories easier for sites with a large amount of categories and sub-categorization. This plugin works in both quick edit mode and stand full post mode.
   Author: Dave Bergschneider
-  Version: 1.0.0
+  Version: 1.0.1
   Author URI: http://www.truimage.net
  */
 
