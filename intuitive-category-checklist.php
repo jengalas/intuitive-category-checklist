@@ -1,11 +1,11 @@
 <?php
 /*
   Plugin Name: Intuitive Category Checklist
-  Plugin URI: http://www.truimage.net
+  Plugin URI: http://www.cmscode.com
   Description: Intuitive Category Checklist makes selecting categories easier for sites with a large amount of categories and sub-categorization. This plugin works in both quick edit mode and stand full post mode.
   Author: Dave Bergschneider
-  Version: 1.0.1
-  Author URI: http://www.truimage.net
+  Version: 1.0.2
+  Author URI: http://www.cmscode.com
  */
 
 define('ICC_PATH', plugin_dir_path(__FILE__));

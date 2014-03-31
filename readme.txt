@@ -3,8 +3,8 @@ Contributors: Dave Bergschneider
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=39WPEFFWFDXTL
 Tags: categories, admin, posts, ui, hierarchy
 Requires at least: 3.0
-Tested up to: 3.3.1
-Stable tag: 1.0.1
+Tested up to: 3.8.1
+Stable tag: 1.0.2
 
 Adds expanding/collapsing functionality to the categories checklist inside posts.
 
@@ -29,6 +29,8 @@ Please submit feedback to the plugin's home page in regards to features you woul
 = No questions have been asked yet. =
 
 == Changelog ==
+= 1.0.2 =
+* Confirmed 3.8.1 compatibility
 
 = 1.0.1 =
 * Confirmed 3.3.1 compatibility
