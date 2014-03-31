@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Intuitive Category Checklist
-  Plugin URI: http://www.cmscode.com
+  Plugin URI: http://www.crunchingpixels.com/portfolio/2011/07/intuitive-category-checklist/
   Description: Intuitive Category Checklist makes selecting categories easier for sites with a large amount of categories and sub-categorization. This plugin works in both quick edit mode and stand full post mode.
   Author: Dave Bergschneider
   Version: 1.0.2

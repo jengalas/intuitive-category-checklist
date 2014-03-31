@@ -12,7 +12,7 @@ Adds expanding/collapsing functionality to the categories checklist inside posts
 
 Intuitive Category Checklist makes selecting categories easier for sites with a large amount of categories and sub-categorization. This plugin works in both quick edit mode and stand full post mode.
 
-Related Links: <a href="http://www.truimage.net/intuitive-category-checklist/" title="Intuitive Category Checklist Plugin for WordPress at Truimage Productions">Plugin Homepage</a>.
+Related Links: <a href="http://www.crunchingpixels.com/portfolio/2011/07/intuitive-category-checklist/" title="Intuitive Category Checklist Plugin for WordPress at Truimage Productions">Plugin Homepage</a>.
 
 *This release has been tested compatible with all WordPress versions since 3.1*
 
